@@ -6,7 +6,7 @@ Börja med att träna på CSS Selektorer genom att spela [CSS Selector Game](htt
 
 ## Övning 2 - CSS Selektorer 2
 
-Hoppa in i mappen [CSS Selector Exercise]('./css-selector-exercise/')
+Hoppa in i mappen [CSS Selector Exercise](./css-selector-exercise/)
 
 ## Övning 3 - Styla en hemsida
 
@@ -14,4 +14,4 @@ Välj ut en av övning 8 - 10 från [HTML Bootcampet](https://github.com/fu-html
 
 ## Övning 4 - Figma Exercise
 
-Försök återskapa följande [Figmaskiss]() så nära mockupen som möjligt. Du hittar HTML-koden samt bakgrundsbilden i mappen [Figma Exercise]('./figma-exercise/'). Om du vill kan du även försöka återskapa HTML:en själv. Tips! Läs på om CSS regeln **background-image**, detta är ett mycket bättre sätt att stoppa in bakgrundsbilder än med hjälpa av en img-tagg.
+Försök återskapa följande [Figmaskiss]() så nära mockupen som möjligt. Du hittar HTML-koden samt bakgrundsbilden i mappen [Figma Exercise](./figma-exercise/). Om du vill kan du även försöka återskapa HTML:en själv. Tips! Läs på om CSS regeln **background-image**, detta är ett mycket bättre sätt att stoppa in bakgrundsbilder än med hjälpa av en img-tagg.
