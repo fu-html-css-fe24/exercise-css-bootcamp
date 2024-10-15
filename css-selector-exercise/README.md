@@ -2,7 +2,7 @@
 
 Denna övning är till för att öva grunderna inom CSS Selektorer.
 
-1. Tryck på Code och kopiera sedan repots HTTPS-länk. Klona ner repot till din dator.
+1. Gå tillbaks ut till huvudmappen, tryck på Code och kopiera sedan repots HTTPS-länk. Klona ner repot till din dator.
 
 2. Arbeta i selectors.css och använd dig av lämplig selektor under varje rad och applicera den style som anges
 
